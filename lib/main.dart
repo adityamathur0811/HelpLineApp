@@ -97,12 +97,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        actions: [
-          IconButton(icon: Icon(Icons.info), onPressed: ()
-          {
-            Navigator.pushNamed(context,"\info");
-          })
-        ],
+
         title: Text(
           " Helpline",
           style: TextStyle(fontSize: 20.0, fontStyle: FontStyle.italic),

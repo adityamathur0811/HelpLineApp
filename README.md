@@ -12,6 +12,8 @@ This project titled "Helplines" is a part of "30 Days Of Flutter Project Submiss
 
 
 ### Helplines
-this is an Flutter App which help yours to find all the important emergency helpline numbers of India ,user can call on a helpline number on a single tap on call icon and can also share the helpline contact 
-with their friends and relative so that other can also use this service
-
+this is an Flutter 
+App which help yours to find all the important emergency helpline numbers of India 
+,user can call on a helpline number on a single tap on call icon 
+and can also share the helpline contact with their friends and relative on press and hold on contact
+ so that they can also use this service
